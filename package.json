@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-prisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "Tássio Rego",
+    "email": "tassiorego@gmail.com",
+    "url": "https://github.com/tassiorego"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "prisma": "^3.10.0",
+    "typescript": "^4.6.2"
+  }
+}
